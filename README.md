@@ -2,8 +2,8 @@
 
 ## 👤 Data Mahasiswa
 
-* Nama: **Naufal Rafi Haryanto**
-* NIM: **312410118**
+* Nama: **Enrico Syafalullah Armandasyah**
+* NIM: **312410144**
 * Kelas: **I241A**
 
 ---
